@@ -4,7 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kemalkilicaslan&label=Profile%20views&color=bd803a&style=flat-square" alt="kemalkilicaslan" height="20"/> </p>
 
-https://github.com/kemalkilicaslan/kemalkilicaslan/blob/main/Kemal-Kilicaslan-Neural-Networks.mp4
+<video width="100%" controls>
+  <source src="https://github.com/kemalkilicaslan/kemalkilicaslan/blob/main/Kemal-Kilicaslan-Neural-Networks.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <h2>Socials</h2>
 
