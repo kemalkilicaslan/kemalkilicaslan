@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kemalkilicaslan&label=Profile%20views&color=bd803a&style=flat-square" alt="kemalkilicaslan" height="20"/> </p>
 
-[![KEMAL KILIÇASLAN - Neural Networks]](https://github.com/kemalkilicaslan/kemalkilicaslan/blob/main/Kemal-Kilicaslan-Neural-Networks.mp4 "KEMAL KILIÇASLAN - Neural Networks")
+https://github.com/kemalkilicaslan/kemalkilicaslan/blob/main/Kemal-Kilicaslan-Neural-Networks.mp4
 
 <h2>Socials</h2>
 
