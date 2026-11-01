@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="199" height="20" role="img" aria-label="Mail: kemalkilicaslan@outlook.com">
+  <title>Mail: kemalkilicaslan@outlook.com</title>
+  <linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient>
+  <clipPath id="r"><rect width="199" height="20" rx="3" fill="#fff"/></clipPath>
+  <g clip-path="url(#r)">
+    <rect width="24" height="20" fill="#ffffff"/>
+    <rect x="24" width="175" height="20" fill="#0078d4"/>
+    <rect width="199" height="20" fill="url(#s)"/>
+  </g>
+  <rect x="4.75" y="5.25" width="14.5" height="9.5" rx="1.5" fill="none" stroke="#0078d4" stroke-width="1.5"/><path d="M5.5 6.25l6.5 5.0l6.5 -5.0" fill="none" stroke="#0078d4" stroke-width="1.5" stroke-linejoin="round"/>
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+    <text x="1115.0" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="1630">kemalkilicaslan@outlook.com</text>
+    <text x="1115.0" y="140" transform="scale(.1)" fill="#ffffff" textLength="1630">kemalkilicaslan@outlook.com</text>
+  </g>
+</svg>
