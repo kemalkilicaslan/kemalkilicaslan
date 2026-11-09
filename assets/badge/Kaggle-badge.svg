@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="119" height="20" role="img" aria-label="Kaggle: kemalkilicaslan">
+  <title>Kaggle: kemalkilicaslan</title>
+  <linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient>
+  <linearGradient id="kg" gradientUnits="userSpaceOnUse" x2="119" y2="20"><stop offset="0" stop-color="#FFC41C"/><stop offset=".5" stop-color="#F8D86E"/><stop offset="1" stop-color="#F0E2C0"/></linearGradient>
+  <linearGradient id="kl" x2="1" y2="1"><stop offset="0" stop-color="#FFC41C"/><stop offset=".55" stop-color="#F8D86E"/><stop offset="1" stop-color="#F3E6C2"/></linearGradient>
+  <radialGradient id="km" cx="0" cy="1" r=".8"><stop offset="0" stop-color="#DCF4E4"/><stop offset="1" stop-color="#DCF4E4" stop-opacity="0"/></radialGradient>
+  <clipPath id="r"><rect width="119" height="20" rx="3" fill="#fff"/></clipPath>
+  <g clip-path="url(#r)">
+    <rect width="24" height="20" fill="#ffffff"/>
+    <rect x="24" width="95" height="20" fill="url(#kg)"/>
+    <rect width="119" height="20" fill="url(#s)"/>
+  </g>
+  <rect x="5" y="3" width="14" height="14" rx="2" fill="url(#kl)"/>
+  <rect x="5" y="3" width="14" height="14" rx="2" fill="url(#km)"/>
+  <path fill="#1F1F1F" fill-rule="evenodd" transform="translate(5 3) scale(.014)" d="M310 133H400Q405 133 405 138V418C405 445 420 462 440 462C457 462 472 455 485 444L655 296Q659 293 664 293H797Q805 293 800 298L578 490C548 518 548 565 578 592L800 792Q805 797 797 797H660Q656 797 653 794L485 648C472 636 456 628 440 628C420 628 405 645 405 672V792Q405 797 400 797H310Q305 797 305 792V138Q305 133 310 133Z"/>
+  <g fill="#1F2328" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+    <text x="715.0" y="140" transform="scale(.1)" fill="#1F2328" textLength="830">kemalkilicaslan</text>
+  </g>
+</svg>

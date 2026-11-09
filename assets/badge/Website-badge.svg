@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="147" height="20" role="img" aria-label="Website: kemalkilicaslan.com">
+  <title>Website: kemalkilicaslan.com</title>
+  <linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient>
+  <clipPath id="r"><rect width="147" height="20" rx="3" fill="#fff"/></clipPath>
+  <g clip-path="url(#r)">
+    <rect width="24" height="20" fill="#ffffff"/>
+    <rect x="24" width="123" height="20" fill="#21262D"/>
+    <rect width="147" height="20" fill="url(#s)"/>
+  </g>
+  <g fill="none" stroke="#21262D" stroke-width="1.3" stroke-linecap="round"><circle cx="12" cy="10" r="6.5"/><ellipse cx="12" cy="10" rx="2.9" ry="6.5"/><path d="M5.5 10h13M6.6 6.6h10.8M6.6 13.4h10.8"/></g>
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+    <text x="855.0" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="1110">kemalkilicaslan.com</text>
+    <text x="855.0" y="140" transform="scale(.1)" fill="#ffffff" textLength="1110">kemalkilicaslan.com</text>
+  </g>
+</svg>
