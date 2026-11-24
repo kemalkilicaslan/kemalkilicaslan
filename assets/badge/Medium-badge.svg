@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="131" height="20" role="img" aria-label="Medium: @kemalkilicaslan">
+  <title>Medium: @kemalkilicaslan</title>
+  <linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient>
+  <clipPath id="r"><rect width="131" height="20" rx="3" fill="#fff"/></clipPath>
+  <g clip-path="url(#r)">
+    <rect width="24" height="20" fill="#ffffff"/>
+    <rect x="24" width="107" height="20" fill="#000000"/>
+    <rect width="131" height="20" fill="url(#s)"/>
+  </g>
+  <image x="5" y="3" width="14" height="14" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAgCAYAAABHA7voAAABCGlDQ1BJQ0MgUHJvZmlsZQAAeJxjYGA8wQAELAYMDLl5JUVB7k4KEZFRCuwPGBiBEAwSk4sLGHADoKpv1yBqL+viUYcLcKakFicD6Q9ArFIEtBxopAiQLZIOYWuA2EkQtg2IXV5SUAJkB4DYRSFBzkB2CpCtkY7ETkJiJxcUgdT3ANk2uTmlyQh3M/Ck5oUGA2kOIJZhKGYIYnBncAL5H6IkfxEDg8VXBgbmCQixpJkMDNtbGRgkbiHEVBYwMPC3MDBsO48QQ4RJQWJRIliIBYiZ0tIYGD4tZ2DgjWRgEL7AwMAVDQsIHG5TALvNnSEfCNMZchhSgSKeDHkMyQx6QJYRgwGDIYMZAKbWPz9HbOBQAAAEEElEQVR42t2ZW4iVVRTHf98+NSMzjBNEWQ1DpnYTx5SCHiIQpsSn8CFQRF96CHwKIh/sJVCEXsKEHpIuRBQE3aSeJupFsDAnMlBQvPQw2VRKl6nMuXxzevkvWG32Od/3zXfOEdqw2ed8e+219rrutdfOaN0yIAC5/t8MjKs/ANwBDAKLwG/A98Bx4DPgGNDUuobDUbb5NYPCdbUkvqC9t6UZ3O/7gEPAlAgV9UXgBLAbGHCbqsIcwKPAhxLcReAD4JEK+LIiAsuAF4F/os0vSDqLUc8155k9A2yNJFuGuWfbCPCZFkwGp5AnWjFpi1YBXzuk82KiWbLnWmP/X3IEswLmdkY4TIDz+tYEtieYDMCNwHeC2RDTMuB1wA8CmqvIWIpR0+p72kQjwaRpdxSY0bq8Bb4c+F0xIHM4UXwwuMMp9d4JXHJaa3aoz2l8S3RuaKG9N0vQtrnDbq3hO+gUcg7oN7Np6M9kF5iLmdwTMWXCvQu45vy7XRDLFVVHI1xfOph5YL2fPBBtpNPdAtQ8MObMy6T/QgXhGszzzreHgF+i+R02uUrSW6jpc0Xd/HHCSd4Cz7fOf8rgseMoc9Ezjxjch7PdbplmKlA0gYedD66uSNuUMKu1AI8lAts7ARhuEXa71RY1Pu2+PSRTLZvxWKbSp7Uoqhp+0+pIAB4HbosmutksqGyR3wBs1NisgMdgN2i8NQFzSwA2O9XTIwabkviYvt1TA9/dGm9KpGnLg6SX9Uh71swU10bmVWUPBnu7xoEEzEAARpaAvFNtNJL+Uhgc1tiXmOsLzg+uB4PLNfbXwNHfJkA2Av/zFoC/lhDBOtX+1DhbA8ds5Neelzwoub5eDE5p/KPGMTGjcS4BMxdcitRLBs1fTmucrsGgrf07AXM1qIbSy2PCEopp4JS+na2B71xkBf/RbgA+B352B3AvGLSE28zrZI1jwtZeTsBcCaqIvZ9w1G4Gtgx4zX2bVILcqGCeDSXok/r2Y5QpYfElA9bISXt1XfoiYja4WkpeAc83Lre9P3Fd2h8EcB54WVJZ6JLm/HXpOWdmDQn1SHTbKBNgPnY+fQn4NYI764kskz13u2Sxt0XJYrXOtLIli2vAygjXV6mSRUzkpy4Wnd4tKDq9XaHo9Eai6HQoVXSKiWxUVO1EfcbXRz/SRkKbsuFKnWcLBWXDGSXqcdlws4N7vd0BfK8z104Ufl9xTBQVfp9ygSQu/Fpw2ZVIsDPdKE4L5sFWtBru0eNgtNE8Kt03C0r3F4BtJaraMe29bYS3p6B0vw54suhc9beMMeBVZR5lNXhSbwhDUfWsSho3DnyqfHUK+ATYVPXxJavwfLZCNj6u6GTPZ7nSpIt6z5gAjrrjpu7z2bCENlPh+SwY/X8BKu6ZAf1xvcMAAAAASUVORK5CYII="/>
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+    <text x="775.0" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="950">@kemalkilicaslan</text>
+    <text x="775.0" y="140" transform="scale(.1)" fill="#ffffff" textLength="950">@kemalkilicaslan</text>
+  </g>
+</svg>
